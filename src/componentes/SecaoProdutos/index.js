@@ -10,22 +10,22 @@ export default function SecaoProdutos(){
                 <div className="colecao-card">
                     <div className="card">
                         <h3>Óculos de grau</h3>
-                        <img src="assets/oculos01.png"/>
+                        <img src="assets/oculos01.png" alt='oculos1'/>
                         <p>R$ 500,00</p>
                     </div>
                     <div className="card">
                         <h3>Óculos transition</h3>
-                        <img src="assets/oculos02.png"/>
+                        <img src="assets/oculos02.png" alt='oculos2'/>
                         <p>R$ 750,00</p>
                     </div>
                     <div className="card">
                         <h3>Óculos de sol</h3>
-                        <img src="assets/oculos03.png"/>
+                        <img src="assets/oculos03.png" alt='oculos3'/>
                         <p>R$ 700,00</p>
                     </div>
                     <div className="card">
                         <h3>Óculos infantil</h3>
-                        <img src="assets/oculos04.png"/>
+                        <img src="assets/oculos04.png" alt='oculos4'/>
                         <p>R$ 500,00</p>
                     </div>
                 </div>
