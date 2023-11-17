@@ -14,3 +14,5 @@ Projeto landing page responsivo e usando ReactJS
 ### Layout Web
 ![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/otica.jpg)
 
+### Layout Mobile
+![Mobile](https://github.com/diego105xz/RepositorioImg/blob/main/oticaMobile.jpg)
